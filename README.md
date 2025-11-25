@@ -29,8 +29,12 @@ This project solves the full pipeline of robotic motion:
 
 ### 🟦 Forward Kinematics (FK)
 
-Computes the end-effector position ($\mathbf{P}_{ee}$) from joint angles ($\mathbf{q}$):
-$$\mathbf{P}_{ee} = f(\mathbf{q})$$
+Computes the end-effector position ($P_{ee}$) from joint angles ($q$):
+
+$$
+P_{ee} = f(q)
+$$
+
 
 ### 🟩 Inverse Kinematics (IK)
 
