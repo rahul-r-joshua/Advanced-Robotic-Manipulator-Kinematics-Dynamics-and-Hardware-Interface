@@ -123,11 +123,11 @@ Upload the sketch:
 Matlab_Arduino/Matlab_Arduino.ino
 ```
 
-Open in **Arduino IDE**
+ * Open in **Arduino IDE**
 
-Select board and port
+ * Select board and port
 
-Click **Upload**
+ * Click **Upload**
 
 -----
 
