@@ -131,10 +131,6 @@ Click **Upload**
 
 -----
 
-Here is the revised **Running the Simulation** section for your `README.md`, clearly instructing users on how to run both the main control script and the workspace analysis script:
-
------
-
 ### 3️⃣ Running the Simulation
 
 Open **MATLAB** and execute the desired script(s). The two primary scripts are designed for different purposes:
