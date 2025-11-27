@@ -27,7 +27,7 @@ mu_a = [0.826597; -0.275958; 0.125785]; % Target position (m)
 fprintf('--- 4. Symbolic Kinematics Setup (DH, T-Matrices, Jacobian) ---\n');
 syms th1 th2 th3 real
 syms d1 l2 l3 real
-syms th1d th2d th3d realis 
+syms th1d th2d th3d real
 subs_params = [th1, th2, th3, d1, l2, l3];
 
 % DH Table [alpha, a, theta, d]
